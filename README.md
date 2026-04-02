@@ -1,5 +1,7 @@
 # Z-City: Improved Gang Wars (IGWARS)
 
+---
+
 Author: DJfarent
 Base Gamemode: Z-City
 Status: WORK IN PROGRESS (NOT FINISHED)
